@@ -10,3 +10,7 @@ to reverse in case you need to include anything before you commit the file.
 
 # What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 >> Add/Remove a feature that you are not sure yet about the impact on the project, create a new version of a game for example.
+
+# How do the diagrams help you visualize the branch structure?
+>> It's a visual tool that helps us to see how the branch structure works.
+
