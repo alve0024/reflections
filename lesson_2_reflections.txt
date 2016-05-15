@@ -5,3 +5,5 @@
 >> Staging area works in between the work you have done and a commit, and it's important this stage once it allows you,
 to reverse in case you need to include anything before you commit the file.
 
+# How can you use the staging area to make sure you have one commit per logical change?
+>> Running the command git status you can check what you are about to commit and choose the one that makes sense or not
