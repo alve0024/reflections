@@ -1,0 +1,7 @@
+# What happens when you initialize a repository? Why do you need to do it?
+>> When git init is used, a .git hidden directory is created, in this folder every commit version is created. 
+
+# How is the staging area different from the working directory and the repository? What value do you think it offers?
+>> Staging area works in between the work you have done and a commit, and it's important this stage once it allows you,
+to reverse in case you need to include anything before you commit the file.
+
