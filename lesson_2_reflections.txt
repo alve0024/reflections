@@ -14,3 +14,5 @@ to reverse in case you need to include anything before you commit the file.
 # How do the diagrams help you visualize the branch structure?
 >> It's a visual tool that helps us to see how the branch structure works.
 
+# What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+>> You are able to merge two a experimental work with the the main (master) branch. The representation of the diagram shows the timeline of the commits.
