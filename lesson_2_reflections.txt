@@ -16,3 +16,7 @@ to reverse in case you need to include anything before you commit the file.
 
 # What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 >> You are able to merge two a experimental work with the the main (master) branch. The representation of the diagram shows the timeline of the commits.
+
+# What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+>> Pros, make your life much easier, once that would be almost impossible to check line by line to compare the code that have been changed. However because it's done by a software new bugs may be introduced, so it's important to re-test your app all over again.
+
