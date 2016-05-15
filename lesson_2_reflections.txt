@@ -7,3 +7,6 @@ to reverse in case you need to include anything before you commit the file.
 
 # How can you use the staging area to make sure you have one commit per logical change?
 >> Running the command git status you can check what you are about to commit and choose the one that makes sense or not
+
+# What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+>> Add/Remove a feature that you are not sure yet about the impact on the project, create a new version of a game for example.
