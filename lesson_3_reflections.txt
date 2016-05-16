@@ -4,3 +4,10 @@
 # Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 >> Sometimes you don't have internet connection.
 
+# Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks = The repository clone procedure on Github is called fork, which is a copy from the original repository to your account
+clones = It's can between to local repository, however it's more common to be a clone you make from a remote repository to your local repository
+branches = Are labels you create during the development process, where you can change or add new code, that it's not stable yet, without interfer on the main code on master branch.
+
+
+
