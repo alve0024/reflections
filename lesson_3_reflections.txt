@@ -9,5 +9,10 @@ forks = The repository clone procedure on Github is called fork, which is a copy
 clones = It's can between to local repository, however it's more common to be a clone you make from a remote repository to your local repository
 branches = Are labels you create during the development process, where you can change or add new code, that it's not stable yet, without interfer on the main code on master branch.
 
+# What is the benefit of having a copy of the last known state of the remote stored locally?
+>> Even offline you can make a merge to keep working on your branch with up-to-date code
+
+
+
 
 
